@@ -1,7 +1,8 @@
 {
-  "name": "projectrk002",
+  "name": "projectrk010",
   "version": "0.1.0",
   "private": true,
+  "description": "To create a blob with react-Konva",
   "keywords": [
     "react-konva",
     "react",
